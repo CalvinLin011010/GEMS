@@ -1,0 +1,8 @@
+python==3.7
+ipdb==0.13.9
+numpy==1.21.5
+huggingfase-hub==0.16.4
+pytorch==1.12.1
+transformers==4.14.1
+sentencepiece==0.1.96
+scikit-learn==1.0.2
