@@ -1,6 +1,6 @@
 # Overview
 
-Code and implementation details of our paper [GEMS: Generation-Based Event Argument Extractionvia Multi-perspective Prompts and Ontology steering].
+Code and implementation details of our paper `GEMS: Generation-Based Event Argument Extractionvia Multi-perspective Prompts and Ontology steering`.
 
 
 ## Requirements
